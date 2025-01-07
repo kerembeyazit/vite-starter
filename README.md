@@ -1,6 +1,11 @@
 # vite starter template
 
-To install: `npx install` 
+To install
+<pre>
+`npx install`
+</pre>
+
+Available commands
 <pre>
 Development | `npm vite` 
 Production build | `npx vite build`  
