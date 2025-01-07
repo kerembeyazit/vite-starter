@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    color: red;
+
+    &:hover {
+        color: blue;
+    }
+}
