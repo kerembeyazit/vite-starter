@@ -7,6 +7,6 @@ To install
 
 Available commands
 <pre>
-Development | `npm vite` 
-Production build | `npx vite build`  
+Development: `npm vite` 
+Production build: `npx vite build`  
 </pre>
